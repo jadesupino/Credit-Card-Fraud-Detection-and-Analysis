@@ -54,6 +54,12 @@ The following rules were applied to flag potentially fraudlent transactions:
   - 11% of fraud occurs between 2 - 5 AM
   - High-value transactions and rapid transaction frequency highlight potential misuse
 
+## Dashboard Preview
+### Default View
+This view displays the dashboard upon initial load.
+
+![Default Dashboard View](images/dashboard.jpg)
+
 ## Project Files
 - *transaction_dataset_creation.py*: Python dataset generator
 - *transaction_dataset.csv*: Initial synethic dataset
