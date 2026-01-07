@@ -58,7 +58,7 @@ The following rules were applied to flag potentially fraudlent transactions:
 ### Default View
 This view displays the dashboard upon initial load.
 
-![Default Dashboard View](images/dashboard.jpg)
+![Default Dashboard View](images/dashboard.pdf)
 
 ## Project Files
 - *transaction_dataset_creation.py*: Python dataset generator
